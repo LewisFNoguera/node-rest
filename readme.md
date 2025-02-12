@@ -1,10 +1,3 @@
-# REST: Representational State Transfer. 
-# ESP: Transferencia de estado representacional.
+# NODE REST
 
-* Cliente - servidor: 
-* URLs basadas en recursos
-
-** morgan: Cada vez que haya una req, morgan es un logger
-** helmet: nos ayuda a proteger nuestra app de vulnerabilidades de http conocidas, configura headers apropiadamente.
-
-#Password mongo: 4KJMBRfaogecYIjQ
+Ejercicio de Node api rest, usando type: "module" sin mongoose.
